@@ -1,4 +1,4 @@
 #pragma once
 
 #define LED_PIN   2
-#define BLINK_MS  500
+#define BLINK_MS  200
